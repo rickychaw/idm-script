@@ -1,6 +1,6 @@
 Param (
     [Parameter(Position=0)]
-    [string]$DownloadURL = 'https://raw.githubusercontent.com/imrosyd/idm-script/main/ias.cmd',
+    [string]$DownloadURL = 'https://raw.githubusercontent.com/rickychaw/idm-script/main/ias.cmd',
 
     [Parameter(Position=1)]
     [string]$FallbackURL = '',
